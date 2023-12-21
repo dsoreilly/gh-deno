@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+.fseventsd
+
+# VSCode
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
