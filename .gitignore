@@ -1,9 +1,16 @@
-# macOS
-.DS_Store
-.fseventsd
+# data
+data/.cache
+data/*.json
 
 # dotenv
 .env
+
+# logs
+logs/*.log
+
+# macOS
+.DS_Store
+.fseventsd
 
 # VSCode
 .vscode/
