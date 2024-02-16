@@ -1,8 +1,7 @@
 # gh-deno
 
-Query most-starred Github repos in the [Deno](https://github.com/topics/deno)
-topic with [GraphQL API](https://docs.github.com/en/graphql). :sauropod:
-:octopus:
+Query Github's most-starred [Deno](https://github.com/topics/deno) topic
+repositories. :sauropod: :octopus:
 
 ```sh
 deno task start
