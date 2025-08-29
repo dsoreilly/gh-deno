@@ -1,11 +1,5 @@
 {
-  "imports": {
-    "@/lib/": "./lib/",
-    "@/services/": "./services/",
-    "std/": "https://deno.land/std@0.212.0/"
-  },
   "tasks": {
-    "dev": "deno run --watch main.ts",
-    "start": "deno run --allow-env --allow-net --allow-read --allow-write main.ts"
+    "start": "deno run --allow-all --env-file main.ts"
   }
 }
